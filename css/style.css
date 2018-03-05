@@ -1,0 +1,14 @@
+html {
+	width: 100%;
+ 	height: 100%;
+}
+
+#vis{
+	background-color: GhostWhite;
+}
+
+
+.state-default{
+	fill: none;
+	stroke: grey;
+}
