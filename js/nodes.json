@@ -1,8 +1,67 @@
-{"node": {
-	"level":
-	"label":
-	"pathTo":[
-		{""}
-	]
-  }
-}
+[
+   {"level": "1",
+   	"order": "1",
+	"label": "Landing Page"
+   },
+   {"level": "2",
+   	"order": "1",
+	"label": "New Releases"
+   },
+   {"level": "2",
+   	"order": "2",
+	"label": "My Library"
+   },
+   {"level": "2",
+   	"order": "3",
+	"label": "Social"
+   },
+   {"level": "2",
+   	"order": "4",
+	"label": "Settings"
+   },
+   {"level": "2",
+   	"order": "5",
+	"label": "Sign Out"
+   },
+   {"level": "3",
+   	"order": "1",
+	"label": "Music"
+   },
+   {"level": "3",
+   	"order": "2",
+	"label": "Podcasts and Shows"
+   },
+   {"level": "3",
+   	"order": "3",
+	"label": "My Music"
+   },
+   {"level": "3",
+   	"order": "4",
+	"label": "My Podcasts"
+   },
+   {"level": "3",
+   	"order": "5",
+	"label": "Friends' Library"
+   },
+   {"level": "3",
+   	"order": "6",
+	"label": "Account"
+   },
+   {"level": "4",
+   	"order": "1",
+	"label": "Genres"
+   },
+   {"level": "4",
+   	"order": "2",
+	"label": "Today's Hits"
+   },
+   {"level": "4",
+   	"order": "3",
+	"label": "Profile"
+   },
+   {"level": "4",
+   	"order": "4",
+	"label": "Subscription"
+   }
+
+]
